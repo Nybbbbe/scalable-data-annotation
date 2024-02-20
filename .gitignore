@@ -1,0 +1,10 @@
+**/*.out
+**/*.log
+/data/
+/ups/data/datasets/
+/ups/data/splits/
+/ups/data/__pycache__/
+customdata/
+__pycache__
+outputs/
+/FNAC_AVL
